@@ -1,3 +1,3 @@
-Coq TeX: A Formalization of TeX in Coq
+Beaq: A Formalization of TeX in Coq
 ======================================
 
