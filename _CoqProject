@@ -1,0 +1,5 @@
+-arg "-w -notation-overridden"
+
+-Q . coq_tex
+
+tex.v
